@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948766640142",
+    "project_id": "howlinstagram-1b3fc",
+    "storage_bucket": "howlinstagram-1b3fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948766640142:android:e616f559c4105fc2af545f",
+        "android_client_info": {
+          "package_name": "com.okre.howlinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948766640142-4smsks6osuve2ugoceqq5gsqlku4q6ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1V36K3FCDnRIxlY1lWeKSshiPUE1y-Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948766640142-4smsks6osuve2ugoceqq5gsqlku4q6ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
